@@ -1,0 +1,51 @@
+
+body{
+	background-image: url(fondobasico.png);
+	margin: 0;
+}
+header{
+	width: 100%;
+	margin-bottom: 70px;
+	overflow: hidden;
+	
+	background-color: white;
+	-moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.12);
+	box-shadow: 0 4px 4px rgba(0, 0, 0, 0.12);
+}
+
+.titulo{	
+	font: 2em 'Roboto', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	float: left;
+	margin-left: 2%;
+	color: #00969e;
+	border-right: 2px solid #00969e;
+	padding: 10px;
+
+}
+section{
+	padding: 10px;
+	width: 960px;
+	height: 350px;
+	margin: auto;
+	background-color: white;
+	border-top-left-radius: 24px;
+	border-bottom-right-radius: 24px;
+}
+.contenido h2{
+	float: left;
+	width: 100%;
+	font: 1.3em 'Roboto', sans-serif;
+	font-weight: 300;
+	float: left;
+	color: #00969e;
+	border-bottom: 2px solid #ccc;
+	}
+
+td{
+	font: 14px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	width: 60px;
+}
+
+
